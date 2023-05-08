@@ -2,7 +2,7 @@
 
 
 - 🔭 Procuro trabalhar com WebDev
-- 🌱 Estou aprendendo JavaScript e TypeScript
+- 🌱 Estou aprendendo ReactJs e TypeScript
 - 📫 Contato: aldobrane@hotmail.com
 
 <div>
