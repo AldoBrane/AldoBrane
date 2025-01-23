@@ -1,8 +1,6 @@
 ## Boas vindas, me chamo Aldo Brane!
 
 
-- 🔭 Procuro trabalhar com Front-End
-- 🌱 Estou aprendendo ReactJs e TypeScript
 - 📫 Contato: aldobrane@hotmail.com
 
 <div>
